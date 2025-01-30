@@ -5,22 +5,27 @@ Jarvis is a unique combination of artificial intelligence and robotics, designed
 ## Demo
 
 Here is the link for the working video:
- https://drive.google.com/file/d/1UKcJxFacrj9GygwwR39wzS9TX9dQ2CWT/view?usp=sharing
+ https://drive.google.com/file/d/1GUXFi2qR66a4h601dmYpZ0zI3UYzKwdV/view?usp=sharing
 
 ## Features
 
-- 💬Integrated AI Conversations: Jarvis can now handle natural conversations, responding dynamically in a human-like manner. It seamlessly switches between pre-defined commands and AI-based responses, making interactions feel more natural.
-- 👋Physical interactions & Gestures: Jarvis now moves its arms and body during conversations to mimic human gestures. And could perform a wide range of movements
-- 📊Health Tracking Mode: Jarvis can now provide realtime SpO2 and BPM values in "Health Mode".
+- 💬 Integrated AI Conversations: Jarvis seamlessly blends natural commands with AI-driven responses, ensuring natural, dynamic conversations.
+- 🗣️ Human-Like Voice: Jarvis now features an expressive, natural-sounding voice with emotional tones, making interactions more engaging.
+- 🧠 Advanced NLP & Multilingual Support: With enhanced Natural Language Processing (NLP), Jarvis understands and responds intelligently to conversations. He also supports native languages like Malayalam, enabling better communication with a wider audience.
+- 👋 Physical Interactions & Gestures: Jarvis moves his arms and body while talking, mimicking human gestures to enhance communication.
+- 📊 Health Tracking Mode: In "Health Mode," Jarvis can measure real-time SpO2 and BPM values, providing basic health monitoring.
+- 🖐 Sign Language Understanding: Jarvis now recognizes and interprets sign language, allowing for communication through hand gestures.
+- 🎯 Face & Object Tracking: Equipped with face-tracking capabilities, Jarvis adjusts his movements to follow a person’s face. He can also detect and identify objects using AI.
 
 
 
 ##  What's next?
 
 I'm working on a few key upgrades:
-- 🔍Object Detection & 🎭 Face Recognition: This will allow Jarvis to identify objects and track faces, enhancing its interaction with the environment.
 - 🚶‍♂️‍➡️Walking & Balancing: The ultimate goal is for Jarvis to walk and balance smoothly, improving mobility and adding to its physical capabilities.
-- 🗣Human-Like Speech: I'm continuously working on making Jarvis' speech sound more human and natural to create better engagement.
+- 🗺️Mapping and trajectory planning: Jarvis could automatically map and plan the trajectory and could be able to walk on any surface.
+- 🤖Design: Give him a interesting body and redesign him.
+- 📊MVP: I need to bring him up to a perfect working mvp stage.
 
 
 ## Support
